@@ -4,7 +4,7 @@ import numpy as np
 
 # streamlit run file_name.py
 
-st.set_page_config(page_title="AI18-Predictor", page_icon="💵")
+st.set_page_config(page_title="AI18- Salary Predictor", page_icon="💵")
 
 st.title("AI18 Predictor")
 
