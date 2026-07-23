@@ -6,7 +6,7 @@ import numpy as np
 
 st.set_page_config(page_title="AI18-Predictor", page_icon="💵")
 
-st.title("AI18 Salary Predictor")
+st.title("AI18 - Salary Predictor")
 
 with open("model.pkl", "rb") as file:
     model = pickle.load(file)
