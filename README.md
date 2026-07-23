@@ -44,11 +44,5 @@
 	- connect / continue with GitHub
 	- utilize default CI/CD
 	
-
-
-
-
-
-
 https://cheat-sheet.streamlit.app/
 
